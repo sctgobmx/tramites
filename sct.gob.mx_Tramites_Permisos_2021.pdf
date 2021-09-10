@@ -16,6 +16,6 @@ border:none; }
 </style>
  </head>
  <body>
- <iframe src="/ViewerJS/REQUISITOS_TRAMITES_2021.pdf"></iframe>
+ <iframe src="https://github.com/ViewerJS/#../tramites/sct.gob.mx_REQUISITOS_TRAMITES_2021.pdf"></iframe>
   <script async src="https://drv.tw/inc/wd.js"></script></body>
  </html>
